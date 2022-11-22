@@ -40,6 +40,6 @@
     "not dead"
   ],
   "publishConfig": {
-    "@AndrewMacNaughton:registry": "https://npm.pkg.github.com"
+    "AndrewMacNaughton:registry": "https://npm.pkg.github.com"
   }
 }
