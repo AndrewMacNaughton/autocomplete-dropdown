@@ -1,7 +1,7 @@
 {
   "name": "@andrewmacnaughton/autocomplete-dropdown",
   "repository": "https://github.com/andrewmacnaughton/autocomplete-dropdown.git",
-  "version": "0.0.9",
+  "version": "0.0.14",
   "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
